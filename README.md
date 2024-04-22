@@ -8,6 +8,7 @@ Welcome to my GitHub profile! 😄
   - Java
   - JavaScript
   - Spring Boot
+  - Spring Security
   - Angular
   - Web Development
   - Data Structures and Algorithms (DSA)
