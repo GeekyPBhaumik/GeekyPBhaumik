@@ -27,4 +27,4 @@ Welcome to my GitHub profile! 😄
 - 😃 I love to:
   - Learn new technologies
   - Create projects that solve real-time problems
-  - Whether it's a small or big project, creating and solving problems is what excites me
+  - Whether it's a small or big project, solving problems is what excites me
